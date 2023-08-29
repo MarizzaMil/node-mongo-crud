@@ -1,0 +1,5 @@
+# Contains all the installed Node.js dependencies for your project
+node_modules/
+
+# This file contains sensitive environment variables for your application, such as database credentials, API keys, or other secrets. It is important to exclude this file from version control to prevent accidental exposure of these secrets.
+.env
